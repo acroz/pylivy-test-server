@@ -4,6 +4,7 @@ Dockerfile for testing the [pylivy](https://github.com/acroz/pylivy/) Python
 client.
 
 This Docker image is adapted from this Dockerfile provided by @ketgo:
+
 https://github.com/acroz/pylivy/pull/60#issuecomment-582310824
 
 ## Usage
